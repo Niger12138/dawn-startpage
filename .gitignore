@@ -1,0 +1,5 @@
+# 自检产物与备份不进仓库
+_shots/
+_backup/
+*.zip
+*.jpg.tmp
